@@ -28,6 +28,19 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      
+
+      <div id="app-container">
+        <div id="pillar-box">
+          <Pillar placement="left"/>
+          <Pillar placement="center"/>
+          <Pillar placement="right"/>
+        </div>
+        <div id="header">
+          <img src={logoName} style={{width: "90%"}}/>
+        </div>
+      </div>
+    
     </>
   )
 }
