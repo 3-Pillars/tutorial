@@ -1,12 +1,10 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 import Pillar from "./Components/Pillar"
+import logoName from './assets/white_transparent_logo_name.png'
+
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
