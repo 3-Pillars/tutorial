@@ -21,7 +21,7 @@
 }
 
 .pillar {
-    /* border: 8px solid red; */
+    border: 8px solid red;
     background-color: black;
     padding: 45% 15% 45% 14.8%;
     display: inline-block;
