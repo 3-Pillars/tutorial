@@ -1,4 +1,4 @@
-import '../../public/pillar.css'
+// import '../../public/pillar.css'
 
 export default function Pillar({placement}) {
     console.log(placement)
