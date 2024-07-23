@@ -17,7 +17,7 @@ function App() {
           <Pillar placement="right"/>
         </div>
         <div id="header">
-          
+          <img src={logoName} style={{width: "90%"}}/>
         </div>
       </div>
     
