@@ -34,9 +34,7 @@ function App() {
 
       <div id="app-container">
         <div id="pillar-box">
-          <Pillar placement="left"/>
-          <Pillar placement="center"/>
-          <Pillar placement="right"/>
+          
         </div>
         <div id="header">
           
